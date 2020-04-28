@@ -6,7 +6,7 @@ weight: 1
 
 ## Getting Access to the Cloudflare API
 
-Using the Cloudflare API, requires authenticatation so that Cloudflare knows who is making requests and what permissions they have. An API Token can be created to grant access to the API to perform actions. See [creating an API Token](tokens/create) for more on this.
+Using the Cloudflare API, requires authentication so that Cloudflare knows who is making requests and what permissions they have. An API Token can be created to grant access to the API to perform actions. See [creating an API Token](tokens/create) for more on this.
 
 Legacy Note: Existing customers may be familiar with API Keys. These allow for less granular access and each user can only have one. For these reasons, we advice customers using API Keys to transition to using API Tokens.
 
